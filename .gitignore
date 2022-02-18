@@ -1,0 +1,15 @@
+*.*
+**/*
+*/**
+
+
+!.gitignore
+!README.md
+!Makefile
+
+!/codeforces
+/codeforces/*
+!/codeforces/*.c
+!/codeforces/*.cpp
+!/codeforces/*.hs
+!/codeforces/*.py
