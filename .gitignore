@@ -1,15 +1,16 @@
-*.*
-**/*
-*/**
+*
 
 
 !.gitignore
 !README.md
-!Makefile
+!/codeforces/Makefile
 
-!/codeforces
 /codeforces/*
+!/codeforces
 !/codeforces/*.c
 !/codeforces/*.cpp
 !/codeforces/*.hs
 !/codeforces/*.py
+
+
+!/kodtu3
